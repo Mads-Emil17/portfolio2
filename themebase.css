@@ -1,0 +1,14 @@
+:root{
+    --base-color: #219EBC;
+    --accent-color: #023047;
+    --background-color: #caf0f8;
+    
+    --base-font: 'Times New Roman', Times, serif;
+    --accent-font: 'Dancing Script', cursive;
+    }
+
+    p{
+        align-items: center;
+    }
+
+    

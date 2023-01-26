@@ -1,0 +1,33 @@
+:root{
+    --base-color: #219EBC;
+    --accent-color: #023047;
+    --background-color: #caf0f8;
+    
+    --base-font: 'Times New Roman', Times, serif;
+    --accent-font: 'Dancing Script', cursive;
+    }
+    body{
+        background-color: var(--background-color);
+    }
+    
+    h1{
+        font-size: 2.2em;
+    }
+    
+    main{
+        padding: 0.1em;
+    }
+    
+    p{
+    font-size: 1.3em;
+    }
+    
+    h2{
+        padding: 1.15em;
+    }
+    
+    main{
+        font-size: 1.15em;
+    }
+
+    
